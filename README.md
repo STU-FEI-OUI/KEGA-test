@@ -29,13 +29,29 @@ Laboratórium budú využívať študenti 3. ročníka bakalárskeho štúdia a 
 inžinierskeho štúdia na vybraných predmetoch a študenti bakalárskych, diplomových, individuálnych
 a tímových prác, ale aj doktorandi. Plánujeme nasledovné pracoviská:
 
-### Pracovisko 1.
+### Pracovisko 1 - Kontrola kvality pomocou hlbokých neurónových sietí
 Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, priemyselný
 riadiaci systém, model. Cieľom pracoviska bude spracovanie obrazu na kontrolu kvality objektov
 (výrobkov).
 
-### Pracovisko 2. 
+### Pracovisko 2 - HMI aplikácie pomocou hlbokých neurónových sietí 
 Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, priemyselný
-riadiaci systém, existujúci riadiaci systém a existujúci model CNC. HMI pracovisko pre
-rozpoznávanie gest, tváre, hlasových povelov pomocou hlbokých neurónových sietí.
+riadiaci systém, existujúci riadiaci systém a existujúci model CNC. HMI pracovisko pre rozpoznávanie gest, tváre, hlasových povelov pomocou hlbokých neurónových sietí.
+[Repozitár_Pracovisko2](https://github.com/STU-FEI-OUI/KEGA-Pracovisko2)
+
+### Pracovisko 3 - Detekcia objektov v priemyselnej prevádzke pomocou hlbokých neurónových sietí
+Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, Nvidia Jetson
+(Edge zariadenie), priemyselný riadiaci systém, existujúci robot (UR). Pracovisko pre detekciu
+objektov pomocou hlbokého učenia vhodné napr. pre účely bin picking, pick & place.
+
+### Pracovisko 4 - Detekcia objektov na videu pomocou hlbokých neurónových sietí
+Počítačová zostava, kvalitná kamera, Nvidia Jetson (Edge zariadenie), priemyselný riadiaci
+systém. Cieľom pracoviska bude sledovanie pohybujúcich sa objektov na videu pomocou hlbokých
+neurónových sietí.
+
+### Pracovisko 5 - Spracovanie zvuku a iných signálov na detekciu anomálií metódami strojového učenia
+Počítačová zostava, kvalitný mikrofón, Nvidia Jetson (Edge zariadenie), priemyselný
+riadiaci systém. Cieľom pracoviska bude spracovanie zvuku a odoslanie výsledku spracovania do
+priemyselného riadiaceho systému s cieľom učenia kvality.
+
 
