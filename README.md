@@ -33,6 +33,7 @@ a tímových prác, ale aj doktorandi. Plánujeme nasledovné pracoviská:
 Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, priemyselný
 riadiaci systém, model. Cieľom pracoviska bude spracovanie obrazu na kontrolu kvality objektov
 (výrobkov).
+[Repozitár_Pracovisko1](https://github.com/STU-FEI-OUI/KEGA-Pracovisko1)
 
 ### Pracovisko 2 - HMI aplikácie pomocou hlbokých neurónových sietí 
 Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, priemyselný
