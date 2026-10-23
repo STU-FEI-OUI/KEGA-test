@@ -52,14 +52,19 @@ Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera,
 (Edge zariadenie), priemyselný riadiaci systém, existujúci robot (UR). Pracovisko pre detekciu
 objektov pomocou hlbokého učenia vhodné napr. pre účely bin picking, pick & place.
 
+[Repozitár_Pracovisko3](https://github.com/STU-FEI-OUI/KEGA-Pracovisko3)
+
 ### Pracovisko 4 - Detekcia objektov na videu pomocou hlbokých neurónových sietí
 Počítačová zostava, kvalitná kamera, Nvidia Jetson (Edge zariadenie), priemyselný riadiaci
 systém. Cieľom pracoviska bude sledovanie pohybujúcich sa objektov na videu pomocou hlbokých
 neurónových sietí.
+
+[Repozitár_Pracovisko4](https://github.com/STU-FEI-OUI/KEGA-Pracovisko4)
 
 ### Pracovisko 5 - Spracovanie zvuku a iných signálov na detekciu anomálií metódami strojového učenia
 Počítačová zostava, kvalitný mikrofón, Nvidia Jetson (Edge zariadenie), priemyselný
 riadiaci systém. Cieľom pracoviska bude spracovanie zvuku a odoslanie výsledku spracovania do
 priemyselného riadiaceho systému s cieľom učenia kvality.
 
+[Repozitár_Pracovisko5](https://github.com/STU-FEI-OUI/KEGA-Pracovisko5)
 
