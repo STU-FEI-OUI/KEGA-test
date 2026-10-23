@@ -30,14 +30,21 @@ inžinierskeho štúdia na vybraných predmetoch a študenti bakalárskych, dipl
 a tímových prác, ale aj doktorandi. Plánujeme nasledovné pracoviská:
 
 ### Pracovisko 1 - Kontrola kvality pomocou hlbokých neurónových sietí
-Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, priemyselný
-riadiaci systém, model. Cieľom pracoviska bude spracovanie obrazu na kontrolu kvality objektov
-(výrobkov).
+Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera (zatiaľ iba RGB kamery), priemyselný
+riadiaci systém (zatiaľ edge zariadenie Raspberry Pi), flexibilné kruhové led osvetlenie, model na snímanie RGB obrazu kamerou a povrchu materiálu laserovým snímačom. 
+Cieľom pracoviska bude spracovanie obrazu na kontrolu kvality objektov (výrobkov).
+![Obr_Pracovisko1](image/Pracovisko1.jpg)
+Obr.1 Obrázok zostavy pracoviska 1.
+
 [Repozitár_Pracovisko1](https://github.com/STU-FEI-OUI/KEGA-Pracovisko1)
 
 ### Pracovisko 2 - HMI aplikácie pomocou hlbokých neurónových sietí 
-Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, priemyselný
-riadiaci systém, existujúci riadiaci systém a existujúci model CNC. HMI pracovisko pre rozpoznávanie gest, tváre, hlasových povelov pomocou hlbokých neurónových sietí.
+Počítačová zostava s výkonnou grafickou kartou, kvalitná hĺbková kamera, web kamera, priemyselný
+riadiaci systém (zatiaľ nie je), mikrofón, existujúci riadiaci systém a existujúci model CNC. 
+HMI pracovisko pre rozpoznávanie gest, tváre, hlasových povelov pomocou hlbokých neurónových sietí.
+![Obr_Pracovisko2](image/Pracovisko2.jpg)
+Obr.2 Obrázok zostavy pracoviska 2.
+
 [Repozitár_Pracovisko2](https://github.com/STU-FEI-OUI/KEGA-Pracovisko2)
 
 ### Pracovisko 3 - Detekcia objektov v priemyselnej prevádzke pomocou hlbokých neurónových sietí
